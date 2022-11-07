@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riceboxspecial
+- 👋 Hi, I’m Brian or @Riceboxspecial
 - 👀 I’m interested in automation testing and development
 - 🌱 I’m currently learning python, automated testing, and sql.
 - 💞️ I’m looking to change career and become a software developer.
